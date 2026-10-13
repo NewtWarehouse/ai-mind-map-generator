@@ -1,0 +1,1 @@
+"""PySide6 desktop shell. No business logic — delegates to handlers."""
