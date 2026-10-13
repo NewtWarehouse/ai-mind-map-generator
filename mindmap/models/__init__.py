@@ -1,0 +1,1 @@
+"""Pydantic domain models. Serializable, validated, side-effect free."""
