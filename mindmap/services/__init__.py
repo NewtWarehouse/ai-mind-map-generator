@@ -1,0 +1,1 @@
+"""Services: LLM adapters, document parsers, local HTTP bridge."""
