@@ -1,0 +1,1 @@
+"""Core algorithms — graph building, extraction, layout. No UI, no I/O side effects."""
