@@ -1,0 +1,1 @@
+"""Feature handlers. Each handler is a thin orchestration layer over core + services."""
